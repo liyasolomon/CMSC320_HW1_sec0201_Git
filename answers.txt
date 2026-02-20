@@ -1,3 +1,9 @@
+
 Q1: Why might we consider using Git?
 
-Answer: Git is useful for tracking and controlling different versions of a project. It is especially useful in collaborative environments os multiple people can work on the same thing at one time.
+Answer: Git is useful for tracking and controlling different versions of a project. It is especially useful in collaborative environments is multiple people can work on the same thing at one time.
+
+Q2: What field could data science be applied to? Give an Example.
+
+Answer: Data science can be applied to business and marketing. For example, companies can use data science to analyze customer purchasing patterns and predict which products people are most likely to buy.
+ 
